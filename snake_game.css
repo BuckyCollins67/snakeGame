@@ -101,6 +101,6 @@ body {
     }
 
     #onScreenControllers button:active {
-        background: slategray;
+        background-color: slategray;
     }
 }
